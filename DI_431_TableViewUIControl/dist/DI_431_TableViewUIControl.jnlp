@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="DI_431_TableViewUIControl.jnlp">
+  <information>
+    <title>DI_431_TableViewUIControl</title>
+    <vendor>CRAMi</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="DI_431_TableViewUIControl.jar" size="6352" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="DI_431_TableViewUIControl" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="di_431_tableviewuicontrol.DI_431_TableViewUIControl"  name="DI_431_TableViewUIControl" />
+  <update check="always"/>
+</jnlp>
