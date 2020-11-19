@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Thu Nov 19 10:30:19 CET 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0175-dfd7-2254-000004dd73c8 
+on database directory C:\Users\CRAMi\AppAgenda\BDAgenda with class loader sun.misc.Launcher$AppClassLoader@28d93b30 
+Loaded from file:/C:/Users/CRAMi/AppAgenda/lib/derby/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=C:\Users\CRAMi\AppAgenda
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Nov 19 10:30:25 CET 2020:
+Shutting down instance a816c00e-0175-dfd7-2254-000004dd73c8 on database directory C:\Users\CRAMi\AppAgenda\BDAgenda with class loader sun.misc.Launcher$AppClassLoader@28d93b30 
